@@ -50,6 +50,5 @@ c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Micr
 c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
 c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 c:\users\syseca\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
