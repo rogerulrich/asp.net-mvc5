@@ -50,7 +50,8 @@ namespace MvcMovie.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Movies.Add(movie);
+                db.Entry(movie).State = EntityState.Modified;
+                //db.Movies.Add(movie);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
